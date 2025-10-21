@@ -1,0 +1,51 @@
+{
+  "name": "aero-enrichment",
+  "version": "1.0.0",
+  "description": "A comprehensive aerospace company data enrichment platform combining CrustData, Exa, SEC Edgar, AI analysis, and web scraping.",
+  "main": "lib/aero-enrichment.js",
+  "types": "lib/aero-enrichment.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/test.ts",
+    "test": "tsx src/test.ts",
+    "example": "tsx src/example.ts",
+    "start": "node lib/aero-enrichment.js"
+  },
+  "keywords": [
+    "aerospace",
+    "defense",
+    "company-enrichment",
+    "data-intelligence",
+    "sec-filings",
+    "ticker-discovery",
+    "ai-analysis",
+    "web-scraping",
+    "crustdata",
+    "exa",
+    "firecrawl"
+  ],
+  "author": "Fire Enrich Team",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "exa-js": "^1.10.2",
+    "@mendable/firecrawl-js": "^1.0.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.20.3",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/aero-enrichment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/aero-enrichment/issues"
+  },
+  "homepage": "https://github.com/your-username/aero-enrichment#readme"
+}
