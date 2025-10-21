@@ -18,6 +18,16 @@ A comprehensive aerospace company data enrichment platform combining CrustData, 
 - **Rate Limiting**: Built-in rate limiting and retry logic
 - **Concurrency Control**: Parallel processing with configurable concurrency limits
 
+## Aerospace & Defense Focus
+
+This platform is specifically designed for aerospace and defense industry intelligence:
+
+- **Pre-configured Mappings**: Built-in ticker mappings for major aerospace companies (Boeing, Lockheed Martin, Northrop Grumman, etc.)
+- **Defense Contract Analysis**: Specialized SEC signal extraction for government contracts and defense programs
+- **Technology Stack Intelligence**: Focus on aerospace-relevant technologies (AI/ML, automation, cybersecurity, etc.)
+- **Financial Health Scoring**: AI-powered analysis of defense contractor financial stability and growth potential
+- **Supply Chain Intelligence**: Analysis of aerospace supply chain disruptions and opportunities
+
 ## Installation
 
 ```bash
