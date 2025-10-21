@@ -9,7 +9,9 @@
     "dev": "tsx src/test.ts",
     "test": "tsx src/test.ts",
     "example": "tsx src/example.ts",
-    "start": "node lib/aero-enrichment.js"
+    "start": "node lib/aero-enrichment.js",
+    "lint": "echo 'Linting not configured yet'",
+    "type-check": "tsc --noEmit"
   },
   "keywords": [
     "aerospace",
