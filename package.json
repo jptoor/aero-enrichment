@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/aero-enrichment.git"
+    "url": "https://github.com/jptoor/aero-enrichment.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/aero-enrichment/issues"
+    "url": "https://github.com/jptoor/aero-enrichment/issues"
   },
-  "homepage": "https://github.com/your-username/aero-enrichment#readme"
+  "homepage": "https://github.com/jptoor/aero-enrichment#readme"
 }
